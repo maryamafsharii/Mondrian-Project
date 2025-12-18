@@ -1,2 +1,2 @@
 # Mondrian-Project
-Mondrian painting whith flexbox
+Mondrian painting with flexbox
